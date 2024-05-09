@@ -1,0 +1,49 @@
+.body{
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container{
+    border-style: solid;
+    
+}
+
+.quadros{
+    display: flex;
+        
+}
+
+.quadro_branco{
+    margin: 1px;
+    background-color: white;
+
+}
+
+.quadro_cinza{
+    margin: 1px;
+    background-color:rgb(223, 223, 223);
+
+}
+
+
+.numeros{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color:rgb(223, 223, 223);
+   
+}
+
+
+.letras{
+    
+    display: flex;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    background-color:rgb(223, 223, 223);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
